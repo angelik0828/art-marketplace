@@ -6,6 +6,10 @@ about: It is a necessary task to do in the project
 
 ### Explanation
  A clear and concise explication about the task.
+ 
+ **Actual result:** (write how it is now)
+
+**Expected result:** (I write how I want to see it)
 
 ### Screenshots
  If applicable, add screenshots to help explain.
